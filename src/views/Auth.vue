@@ -1,6 +1,6 @@
 <template>
   <div>
-      <h1>Auth</h1>
+      <h1>Inicio de sesion</h1>
   </div>
 </template>
 
